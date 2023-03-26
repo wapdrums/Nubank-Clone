@@ -40,5 +40,5 @@ Leia as documentações abaixo para continuar seu desenvolvimento com essas tecn
 - [Vuex](https://vuex.vuejs.org/ptbr/guide/)
 - [Boxicons](https://boxicons.com/usage/)
 
-<p align="center">Feito com 💖 por Mich</p>
+<p align="center">Feito por Wesley Plaza</p>
 
