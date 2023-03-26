@@ -12,7 +12,7 @@ A minha intenção é criar uma réplica do aplicativo do Nubank que possa ser u
 
 ## Começando
 
-Para inicilizar esse projeto, é necessário ter duas ferramentas instaladas em sua máquina, o [Git](https://git-scm.com/) e o [Node.js](https://nodejs.org/).
+Para iniciar esse projeto, é necessário ter duas ferramentas instaladas em sua máquina, o [Git](https://git-scm.com/) e o [Node.js](https://nodejs.org/).
 
 - Clone o projeto com os comando abaixo:
 ```
