@@ -1,8 +1,11 @@
 # Nubank Clone
 
-O intuíto desse projeto, é clonar o app do Nubank aos poucos, primeiramente a interface e assim que possível melhorar as funcionalidades parecidas com a do próprio app.
+Eu decidi iniciar um projeto pessoal com o intuito de clonar o aplicativo do Nubank, mas de forma gradual e passo a passo. A primeira etapa do projeto será focada na reprodução da interface do app, buscando torná-la o mais fiel possível à original.
 
-Logo abaixo você poderá ver algumas telas já existentes no projeto com funcionalidades (ou não).
+Para atingir esse objetivo, escolhi utilizar as tecnologias Vue e Springboot. Com o Vue, pretendo construir a interface do usuário, utilizando componentes reutilizáveis e facilitando a criação de uma experiência de usuário agradável. Já o Springboot será utilizado como o backend da aplicação, gerenciando o processamento das informações e permitindo que o aplicativo possa se conectar a APIs externas.
+
+A minha intenção é criar uma réplica do aplicativo do Nubank que possa ser utilizada para fins educativos e de aprendizado. Conforme o projeto avançar, pretendo adicionar funcionalidades ao aplicativo, de forma a torná-lo cada vez mais completo e próximo ao original. Estou animado para ver como o projeto irá se desenvolver e espero aprender muito com essa experiência!
+
 <p align="start">
     <img src="https://i.imgur.com/0n3EbFh.png">
 </p>
